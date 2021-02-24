@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 38 38" xml:space="preserve">
+<style type="text/css">
+	.particle0{opacity:0.1;}
+	.particle1{filter:url(#Adobe_OpacityMaskFilter);}
+	.particle2{mask:url(#SVGID_1_);}
+	.particle3{fill:#FFFFFF;}
+</style>
+<g class="particle0">
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="1" y="1" width="36" height="36">
+			<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+			<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="1" y="1" width="36" height="36" id="SVGID_1_">
+		<g class="particle1">
+			<image style="overflow:visible;" width="41" height="41" xlink:href="6DDB2D1C.jpg"  transform="matrix(1 0 0 1 -1.125 -1.75)">
+			</image>
+		</g>
+	</mask>
+	<g class="particle2">
+		<circle class="particle3" cx="19" cy="19" r="18"/>
+	</g>
+</g>
+</svg>

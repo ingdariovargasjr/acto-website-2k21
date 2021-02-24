@@ -1,0 +1,1019 @@
+<template>
+<div>
+<svg width="380" height="380" viewBox="0 0 380 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="cubo2 1">
+<g id="Bottom">
+<path class="animate" id="Vector" opacity="0.2" d="M244 314.8C251.7 314.8 251.7 302.8 244 302.8C236.3 302.8 236.3 314.8 244 314.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_2" opacity="0.2" d="M292 290.8C299.7 290.8 299.7 278.8 292 278.8C284.3 278.8 284.3 290.8 292 290.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_3" opacity="0.2" d="M207.6 339.7C219.2 339.7 219.2 321.7 207.6 321.7C196 321.7 196 339.7 207.6 339.7Z" fill="#007EFF"/>
+<path class="animate" id="Vector_4" opacity="0.2" d="M307.6 279.7C319.2 279.7 319.2 261.7 307.6 261.7C296 261.7 296 279.7 307.6 279.7Z" fill="#007EFF"/>
+<path class="animate" id="Vector_5" opacity="0.2" d="M320.2 269.7C331.8 269.7 331.8 251.7 320.2 251.7C308.6 251.7 308.6 269.7 320.2 269.7Z" fill="#007EFF"/>
+<path class="animate" id="Vector_6" opacity="0.2" d="M259.6 312.4C271.2 312.4 271.2 294.4 259.6 294.4C248 294.4 248 312.4 259.6 312.4Z" fill="#007EFF"/>
+<path class="animate" id="Vector_7" opacity="0.2" d="M236.9 329.1C248.5 329.1 248.5 311.1 236.9 311.1C225.3 311.1 225.3 329.1 236.9 329.1Z" fill="#007EFF"/>
+<path class="animate" id="Vector_8" opacity="0.3" d="M313.5 265.8C319.3 265.8 319.3 256.8 313.5 256.8C307.7 256.8 307.7 265.8 313.5 265.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_9" opacity="0.3" d="M210 337.3C215.8 337.3 215.8 328.3 210 328.3C204.2 328.3 204.2 337.3 210 337.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_10" opacity="0.3" d="M227.5 325.8C233.3 325.8 233.3 316.8 227.5 316.8C221.7 316.8 221.7 325.8 227.5 325.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_11" opacity="0.3" d="M247 313.3C252.8 313.3 252.8 304.3 247 304.3C241.2 304.3 241.2 313.3 247 313.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_12" opacity="0.3" d="M260 304.8C265.8 304.8 265.8 295.8 260 295.8C254.2 295.8 254.2 304.8 260 304.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_13" opacity="0.3" d="M277.5 296.3C283.3 296.3 283.3 287.3 277.5 287.3C271.7 287.3 271.7 296.3 277.5 296.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_14" opacity="0.3" d="M296.5 284.3C302.3 284.3 302.3 275.3 296.5 275.3C290.7 275.3 290.7 284.3 296.5 284.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_15" opacity="0.3" d="M196.5 341.8C202.3 341.8 202.3 332.8 196.5 332.8C190.7 332.8 190.7 341.8 196.5 341.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_16" d="M201 334.8C202.9 334.8 202.9 331.8 201 331.8C199.1 331.8 199.1 334.8 201 334.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_17" d="M217.5 324.8C219.4 324.8 219.4 321.8 217.5 321.8C215.6 321.8 215.6 324.8 217.5 324.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_18" d="M276.5 292.8C278.4 292.8 278.4 289.8 276.5 289.8C274.6 289.8 274.6 292.8 276.5 292.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_19" d="M298.5 278.3C300.4 278.3 300.4 275.3 298.5 275.3C296.6 275.3 296.6 278.3 298.5 278.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_20" d="M317.5 266.8C319.4 266.8 319.4 263.8 317.5 263.8C315.6 263.8 315.6 266.8 317.5 266.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_21" d="M233.5 314.8C235.4 314.8 235.4 311.8 233.5 311.8C231.6 311.8 231.6 314.8 233.5 314.8Z" fill="#007EFF"/>
+</g>
+<g id="Medio">
+<path class="animate" id="Vector_22" opacity="0.2" d="M193.5 198.8C203.2 198.8 203.2 183.8 193.5 183.8C183.8 183.8 183.8 198.8 193.5 198.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_23" opacity="0.2" d="M196 291.8C203.7 291.8 203.7 279.8 196 279.8C188.3 279.8 188.3 291.8 196 291.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_24" opacity="0.2" d="M193.5 254.8C201.2 254.8 201.2 242.8 193.5 242.8C185.8 242.8 185.8 254.8 193.5 254.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_25" opacity="0.2" d="M193 222.3C200.7 222.3 200.7 210.3 193 210.3C185.3 210.3 185.3 222.3 193 222.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_26" opacity="0.2" d="M190.9 213.1C202.5 213.1 202.5 195.1 190.9 195.1C179.3 195.1 179.3 213.1 190.9 213.1Z" fill="#007EFF"/>
+<path class="animate" id="Vector_27" opacity="0.2" d="M192.2 280.4C203.8 280.4 203.8 262.4 192.2 262.4C180.6 262.4 180.6 280.4 192.2 280.4Z" fill="#007EFF"/>
+<path class="animate" id="Vector_28" opacity="0.2" d="M196.2 343.1C207.8 343.1 207.8 325.1 196.2 325.1C184.6 325.1 184.6 343.1 196.2 343.1Z" fill="#007EFF"/>
+<path class="animate" id="Vector_29" opacity="0.2" d="M193.6 236.4C205.2 236.4 205.2 218.4 193.6 218.4C182 218.4 182 236.4 193.6 236.4Z" fill="#007EFF"/>
+<path class="animate" id="Vector_30" opacity="0.3" d="M194.5 326.8C200.3 326.8 200.3 317.8 194.5 317.8C188.7 317.8 188.7 326.8 194.5 326.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_31" opacity="0.3" d="M194.5 304.3C200.3 304.3 200.3 295.3 194.5 295.3C188.7 295.3 188.7 304.3 194.5 304.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_32" opacity="0.3" d="M195.5 288.3C201.3 288.3 201.3 279.3 195.5 279.3C189.7 279.3 189.7 288.3 195.5 288.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_33" opacity="0.3" d="M193.5 262.8C199.3 262.8 199.3 253.8 193.5 253.8C187.7 253.8 187.7 262.8 193.5 262.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_34" opacity="0.3" d="M192.5 248.3C198.3 248.3 198.3 239.3 192.5 239.3C186.7 239.3 186.7 248.3 192.5 248.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_35" opacity="0.3" d="M190 223.3C195.8 223.3 195.8 214.3 190 214.3C184.2 214.3 184.2 223.3 190 223.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_36" opacity="0.3" d="M192.5 199.8C198.3 199.8 198.3 190.8 192.5 190.8C186.7 190.8 186.7 199.8 192.5 199.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_37" opacity="0.3" d="M181 204.8C186.8 204.8 186.8 195.8 181 195.8C175.2 195.8 175.2 204.8 181 204.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_38" d="M193 220.8C194.9 220.8 194.9 217.8 193 217.8C191.1 217.8 191.1 220.8 193 220.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_39" d="M192 267.3C193.9 267.3 193.9 264.3 192 264.3C190.1 264.3 190.1 267.3 192 267.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_40" d="M196 310.3C197.9 310.3 197.9 307.3 196 307.3C194.1 307.3 194.1 310.3 196 310.3Z" fill="#007EFF"/>
+<path class="animate" id="x3C_x3E_6" d="M193.5 285.8C195.4 285.8 195.4 282.8 193.5 282.8C191.6 282.8 191.6 285.8 193.5 285.8Z" fill="#007EFF"/>
+</g>
+<g id="MedDer">
+<path class="animate" id="Vector_41" opacity="0.2" d="M109 149.3C116.7 149.3 116.7 137.3 109 137.3C101.3 137.3 101.3 149.3 109 149.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_42" opacity="0.2" d="M147 170.3C154.7 170.3 154.7 158.3 147 158.3C139.3 158.3 139.3 170.3 147 170.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_43" opacity="0.2" d="M164.5 180.8C172.2 180.8 172.2 168.8 164.5 168.8C156.8 168.8 156.8 180.8 164.5 180.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_44" opacity="0.2" d="M67.6 129.1C79.2 129.1 79.2 111.1 67.6 111.1C56 111.1 56 129.1 67.6 129.1Z" fill="#007EFF"/>
+<path class="animate" id="Vector_45" opacity="0.2" d="M184.9 197.7C196.5 197.7 196.5 179.7 184.9 179.7C173.3 179.7 173.3 197.7 184.9 197.7Z" fill="#007EFF"/>
+<path class="animate" id="Vector_46" opacity="0.3" d="M195 196.3C200.8 196.3 200.8 187.3 195 187.3C189.2 187.3 189.2 196.3 195 196.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_47" opacity="0.3" d="M62 120.8C67.8 120.8 67.8 111.8 62 111.8C56.2 111.8 56.2 120.8 62 120.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_48" opacity="0.3" d="M175 185.8C180.8 185.8 180.8 176.8 175 176.8C169.2 176.8 169.2 185.8 175 185.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_49" opacity="0.3" d="M125.5 157.8C131.3 157.8 131.3 148.8 125.5 148.8C119.7 148.8 119.7 157.8 125.5 157.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_50" opacity="0.3" d="M85 133.3C90.8 133.3 90.8 124.3 85 124.3C79.2 124.3 79.2 133.3 85 133.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_51" opacity="0.3" d="M163 173.8C168.8 173.8 168.8 164.8 163 164.8C157.2 164.8 157.2 173.8 163 173.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_52" opacity="0.3" d="M123.5 154.8C129.3 154.8 129.3 145.8 123.5 145.8C117.7 145.8 117.7 154.8 123.5 154.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_53" opacity="0.3" d="M112.5 145.3C112.8 145.3 113.2 145.3 113.5 145.3C114.7 145.3 115.9 144.8 116.7 144C117.5 143.2 118.1 141.9 118 140.8C117.9 139.6 117.6 138.4 116.7 137.6C115.8 136.8 114.7 136.3 113.5 136.3C113.2 136.3 112.8 136.3 112.5 136.3C111.3 136.3 110.1 136.8 109.3 137.6C108.5 138.4 107.9 139.7 108 140.8C108.1 142 108.4 143.2 109.3 144C110.2 144.8 111.3 145.3 112.5 145.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_54" opacity="0.3" d="M137.5 161.8C143.3 161.8 143.3 152.8 137.5 152.8C131.7 152.8 131.7 161.8 137.5 161.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_55" opacity="0.3" d="M93.5 137.3C93.8 137.3 94.2 137.3 94.5 137.3C95.7 137.3 96.9 136.8 97.7 136C98.5 135.2 99.1 133.9 99 132.8C98.9 131.6 98.6 130.4 97.7 129.6C96.8 128.8 95.7 128.3 94.5 128.3C94.2 128.3 93.8 128.3 93.5 128.3C92.3 128.3 91.1 128.8 90.3 129.6C89.5 130.4 88.9 131.7 89 132.8C89.1 134 89.4 135.2 90.3 136C91.2 136.8 92.3 137.3 93.5 137.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_56" opacity="0.3" d="M97.5 143.3C103.3 143.3 103.3 134.3 97.5 134.3C91.7 134.3 91.7 143.3 97.5 143.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_57" d="M81 126.8C82.9 126.8 82.9 123.8 81 123.8C79.1 123.8 79.1 126.8 81 126.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_58" d="M110.5 142.8C112.4 142.8 112.4 139.8 110.5 139.8C108.6 139.8 108.6 142.8 110.5 142.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_59" d="M95 136.3C96.9 136.3 96.9 133.3 95 133.3C93.1 133.3 93.1 136.3 95 136.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_60" d="M140 159.8C141.9 159.8 141.9 156.8 140 156.8C138.1 156.8 138.1 159.8 140 159.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_61" d="M173 182.8C174.9 182.8 174.9 179.8 173 179.8C171.1 179.8 171.1 182.8 173 182.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_62" d="M154 170.3C155.9 170.3 155.9 167.3 154 167.3C152.1 167.3 152.1 170.3 154 170.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_63" d="M123.5 153.3C125.4 153.3 125.4 150.3 123.5 150.3C121.6 150.3 121.6 153.3 123.5 153.3Z" fill="#007EFF"/>
+</g>
+<g id="MedIzq">
+<path class="animate" id="Vector_64" opacity="0.2" d="M224.5 181.3C232.2 181.3 232.2 169.3 224.5 169.3C216.8 169.3 216.8 181.3 224.5 181.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_65" opacity="0.2" d="M256.5 162.8C264.2 162.8 264.2 150.8 256.5 150.8C248.8 150.8 248.8 162.8 256.5 162.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_66" opacity="0.2" d="M298.5 137.3C306.2 137.3 306.2 125.3 298.5 125.3C290.8 125.3 290.8 137.3 298.5 137.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_67" opacity="0.2" d="M224 178.3C227.9 178.3 227.9 172.3 224 172.3C220.1 172.3 220.1 178.3 224 178.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_68" opacity="0.2" d="M262.5 158.8C266.4 158.8 266.4 152.8 262.5 152.8C258.6 152.8 258.6 158.8 262.5 158.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_69" opacity="0.2" d="M198.9 196.4C210.5 196.4 210.5 178.4 198.9 178.4C187.3 178.4 187.3 196.4 198.9 196.4Z" fill="#007EFF"/>
+<path class="animate" id="Vector_70" opacity="0.2" d="M212.9 193.7C224.5 193.7 224.5 175.7 212.9 175.7C201.3 175.7 201.3 193.7 212.9 193.7Z" fill="#007EFF"/>
+<path class="animate" id="Vector_71" opacity="0.2" d="M244.9 174.4C256.5 174.4 256.5 156.4 244.9 156.4C233.3 156.4 233.3 174.4 244.9 174.4Z" fill="#007EFF"/>
+<path class="animate" id="Vector_72" opacity="0.2" d="M275.6 153.7C287.2 153.7 287.2 135.7 275.6 135.7C264 135.7 264 153.7 275.6 153.7Z" fill="#007EFF"/>
+<path class="animate" id="Vector_73" opacity="0.3" d="M285 144.3C290.8 144.3 290.8 135.3 285 135.3C279.2 135.3 279.2 144.3 285 144.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_74" opacity="0.3" d="M298.5 133.8C304.3 133.8 304.3 124.8 298.5 124.8C292.7 124.8 292.7 133.8 298.5 133.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_75" opacity="0.3" d="M316 127.3C321.8 127.3 321.8 118.3 316 118.3C310.2 118.3 310.2 127.3 316 127.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_76" d="M320.5 120.3C322.4 120.3 322.4 117.3 320.5 117.3C318.6 117.3 318.6 120.3 320.5 120.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_77" d="M196 190.8C197.9 190.8 197.9 187.8 196 187.8C194.1 187.8 194.1 190.8 196 190.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_78" d="M273.5 146.3C275.4 146.3 275.4 143.3 273.5 143.3C271.6 143.3 271.6 146.3 273.5 146.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_79" d="M237 168.8C238.9 168.8 238.9 165.8 237 165.8C235.1 165.8 235.1 168.8 237 168.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_80" d="M217 180.8C218.9 180.8 218.9 177.8 217 177.8C215.1 177.8 215.1 180.8 217 180.8Z" fill="#007EFF"/>
+</g>
+<g id="PaloDer">
+<path class="animate" id="Vector_81" opacity="0.2" d="M321.5 220.8C329.2 220.8 329.2 208.8 321.5 208.8C313.8 208.8 313.8 220.8 321.5 220.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_82" opacity="0.2" d="M322.5 173.3C330.2 173.3 330.2 161.3 322.5 161.3C314.8 161.3 314.8 173.3 322.5 173.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_83" opacity="0.2" d="M319 131.8C326.7 131.8 326.7 119.8 319 119.8C311.3 119.8 311.3 131.8 319 131.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_84" opacity="0.2" d="M321.5 241.8C329.2 241.8 329.2 229.8 321.5 229.8C313.8 229.8 313.8 241.8 321.5 241.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_85" opacity="0.2" d="M320 268.8C327.7 268.8 327.7 256.8 320 256.8C312.3 256.8 312.3 268.8 320 268.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_86" opacity="0.2" d="M319.6 213.7C331.2 213.7 331.2 195.7 319.6 195.7C308 195.7 308 213.7 319.6 213.7Z" fill="#007EFF"/>
+<path class="animate" id="Vector_87" opacity="0.2" d="M318.9 136.4C330.5 136.4 330.5 118.4 318.9 118.4C307.3 118.4 307.3 136.4 318.9 136.4Z" fill="#007EFF"/>
+<path class="animate" id="Vector_88" opacity="0.3" d="M324 251.3C329.8 251.3 329.8 242.3 324 242.3C318.2 242.3 318.2 251.3 324 251.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_89" opacity="0.3" d="M320.5 233.8C326.3 233.8 326.3 224.8 320.5 224.8C314.7 224.8 314.7 233.8 320.5 233.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_90" opacity="0.3" d="M321.5 217.8C327.3 217.8 327.3 208.8 321.5 208.8C315.7 208.8 315.7 217.8 321.5 217.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_91" opacity="0.3" d="M319 202.8C324.8 202.8 324.8 193.8 319 193.8C313.2 193.8 313.2 202.8 319 202.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_92" opacity="0.3" d="M322.5 186.8C328.3 186.8 328.3 177.8 322.5 177.8C316.7 177.8 316.7 186.8 322.5 186.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_93" opacity="0.3" d="M321.5 173.3C327.3 173.3 327.3 164.3 321.5 164.3C315.7 164.3 315.7 173.3 321.5 173.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_94" opacity="0.3" d="M323 161.8C328.8 161.8 328.8 152.8 323 152.8C317.2 152.8 317.2 161.8 323 161.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_95" opacity="0.3" d="M321 144.3C326.8 144.3 326.8 135.3 321 135.3C315.2 135.3 315.2 144.3 321 144.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_96" d="M320 249.3C321.9 249.3 321.9 246.3 320 246.3C318.1 246.3 318.1 249.3 320 249.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_97" d="M324 195.3C325.9 195.3 325.9 192.3 324 192.3C322.1 192.3 322.1 195.3 324 195.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_98" d="M323 150.8C324.9 150.8 324.9 147.8 323 147.8C321.1 147.8 321.1 150.8 323 150.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_99" d="M321.5 176.3C323.4 176.3 323.4 173.3 321.5 173.3C319.6 173.3 319.6 176.3 321.5 176.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_100" d="M322.5 226.8C324.4 226.8 324.4 223.8 322.5 223.8C320.6 223.8 320.6 226.8 322.5 226.8Z" fill="#007EFF"/>
+</g>
+<g id="ArribaDer">
+<path class="animate" id="Vector_101" opacity="0.2" d="M194.5 51.8C202.2 51.8 202.2 39.8 194.5 39.8C186.8 39.8 186.8 51.8 194.5 51.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_102" opacity="0.2" d="M168.5 64.3C176.2 64.3 176.2 52.3 168.5 52.3C160.8 52.3 160.8 64.3 168.5 64.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_103" opacity="0.2" d="M148 78.8C155.7 78.8 155.7 66.8 148 66.8C140.3 66.8 140.3 78.8 148 78.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_104" opacity="0.2" d="M117 93.3C124.7 93.3 124.7 81.3 117 81.3C109.3 81.3 109.3 93.3 117 93.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_105" opacity="0.2" d="M95 110.3C102.7 110.3 102.7 98.3 95 98.3C87.3 98.3 87.3 110.3 95 110.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_106" opacity="0.2" d="M192.2 63.1C203.8 63.1 203.8 45.1 192.2 45.1C180.6 45.1 180.6 63.1 192.2 63.1Z" fill="#007EFF"/>
+<path class="animate" id="Vector_107" opacity="0.2" d="M84.9 119.1C96.5 119.1 96.5 101.1 84.9 101.1C73.3 101.1 73.3 119.1 84.9 119.1Z" fill="#007EFF"/>
+<path class="animate" id="Vector_108" opacity="0.2" d="M107.6 105.1C119.2 105.1 119.2 87.1 107.6 87.1C96 87.1 96 105.1 107.6 105.1Z" fill="#007EFF"/>
+<path class="animate" id="Vector_109" opacity="0.3" d="M82.3 113.2C82.6 113 83 112.9 83.3 112.7C84.3 112.2 85.1 111 85.4 110C85.7 108.9 85.6 107.5 84.9 106.5C84.3 105.5 83.4 104.7 82.2 104.4C81 104.1 79.9 104.3 78.7 104.9C78.4 105.1 78 105.2 77.7 105.4C76.7 105.9 75.9 107.1 75.6 108.1C75.3 109.2 75.4 110.6 76.1 111.6C76.7 112.6 77.6 113.4 78.8 113.7C80 113.9 81.1 113.7 82.3 113.2Z" fill="#007EFF"/>
+<path class="animate" id="Vector_110" opacity="0.3" d="M123 87.8C128.8 87.8 128.8 78.8 123 78.8C117.2 78.8 117.2 87.8 123 87.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_111" opacity="0.3" d="M158 71.3C163.8 71.3 163.8 62.3 158 62.3C152.2 62.3 152.2 71.3 158 71.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_112" opacity="0.3" d="M172.5 63.3C178.3 63.3 178.3 54.3 172.5 54.3C166.7 54.3 166.7 63.3 172.5 63.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_113" opacity="0.3" d="M118.5 83.8C124.3 83.8 124.3 74.8 118.5 74.8C112.7 74.8 112.7 83.8 118.5 83.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_114" opacity="0.3" d="M139.5 80.3C145.3 80.3 145.3 71.3 139.5 71.3C133.7 71.3 133.7 80.3 139.5 80.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_115" opacity="0.3" d="M185 53.8C190.8 53.8 190.8 44.8 185 44.8C179.2 44.8 179.2 53.8 185 53.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_116" d="M166.5 60.3C168.4 60.3 168.4 57.3 166.5 57.3C164.6 57.3 164.6 60.3 166.5 60.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_117" d="M128.5 82.3C130.4 82.3 130.4 79.3 128.5 79.3C126.6 79.3 126.6 82.3 128.5 82.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_118" d="M102 98.8C103.9 98.8 103.9 95.8 102 95.8C100.1 95.8 100.1 98.8 102 98.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_119" d="M84 107.3C85.9 107.3 85.9 104.3 84 104.3C82.1 104.3 82.1 107.3 84 107.3Z" fill="#007EFF"/>
+</g>
+<g id="ArribaIzq">
+<path class="animate" id="Vector_120" opacity="0.2" d="M280 99.3C287.7 99.3 287.7 87.3 280 87.3C272.3 87.3 272.3 99.3 280 99.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_121" opacity="0.2" d="M250.5 83.3C258.2 83.3 258.2 71.3 250.5 71.3C242.8 71.3 242.8 83.3 250.5 83.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_122" opacity="0.2" d="M224 67.8C231.7 67.8 231.7 55.8 224 55.8C216.3 55.8 216.3 67.8 224 67.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_123" opacity="0.2" d="M243.6 83.7C255.2 83.7 255.2 65.7 243.6 65.7C232 65.7 232 83.7 243.6 83.7Z" fill="#007EFF"/>
+<path class="animate" id="Vector_124" opacity="0.3" d="M310.5 116.8C316.3 116.8 316.3 107.8 310.5 107.8C304.7 107.8 304.7 116.8 310.5 116.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_125" opacity="0.3" d="M292.5 105.8C298.3 105.8 298.3 96.8 292.5 96.8C286.7 96.8 286.7 105.8 292.5 105.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_126" opacity="0.3" d="M269.5 92.8C275.3 92.8 275.3 83.8 269.5 83.8C263.7 83.8 263.7 92.8 269.5 92.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_127" opacity="0.3" d="M249 80.3C254.8 80.3 254.8 71.3 249 71.3C243.2 71.3 243.2 80.3 249 80.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_128" opacity="0.3" d="M227 69.3C232.8 69.3 232.8 60.3 227 60.3C221.2 60.3 221.2 69.3 227 69.3Z" fill="#007EFF"/>
+<path class="animate" id="Vector_129" opacity="0.3" d="M209 58.8C214.8 58.8 214.8 49.8 209 49.8C203.2 49.8 203.2 58.8 209 58.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_130" opacity="0.3" d="M195 49.8C200.8 49.8 200.8 40.8 195 40.8C189.2 40.8 189.2 49.8 195 49.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_131" d="M196 46.8C197.9 46.8 197.9 43.8 196 43.8C194.1 43.8 194.1 46.8 196 46.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_132" d="M209.5 55.8C211.4 55.8 211.4 52.8 209.5 52.8C207.6 52.8 207.6 55.8 209.5 55.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_133" d="M258.5 80.8C260.4 80.8 260.4 77.8 258.5 77.8C256.6 77.8 256.6 80.8 258.5 80.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_134" d="M236 69.8C237.9 69.8 237.9 66.8 236 66.8C234.1 66.8 234.1 69.8 236 69.8Z" fill="#007EFF"/>
+<path class="animate" id="Vector_135" d="M300 107.3C301.9 107.3 301.9 104.3 300 104.3C298.1 104.3 298.1 107.3 300 107.3Z" fill="#007EFF"/>
+</g>
+</g>
+</svg>
+
+</div>
+</template>
+
+<script>
+import jQuery from 'jquery'
+
+export default {
+	name: 'Cubo2',
+	data(){
+		return{
+
+		}
+	}
+}
+
+//funciones animadas
+// Detect request animation frame
+var scroll = window.requestAnimationFrame ||
+             // IE Fallback
+            function(callback){ window.setTimeout(callback, 1000/60)};
+var elementsToShow = document.querySelectorAll('.show-on-scroll'); 
+
+function loop() {
+
+    Array.prototype.forEach.call(elementsToShow, function(element){
+      if (isElementInViewport(element)) {
+        element.classList.add('is-visible');
+      } else {
+        element.classList.remove('is-visible');
+      }
+    });
+
+    scroll(loop);
+}
+
+// Call the loop for the first time
+loop();
+
+// Helper function from: http://stackoverflow.com/a/7557433/274826
+function isElementInViewport(el) {
+  // special bonus for those using jQuery
+  if (typeof jQuery === "function" && el instanceof jQuery) {
+    el = el[0];
+  }
+  var rect = el.getBoundingClientRect();
+  return (
+    (rect.top <= 0
+      && rect.bottom >= 0)
+    ||
+    (rect.bottom >= (window.innerHeight || document.documentElement.clientHeight) &&
+      rect.top <= (window.innerHeight || document.documentElement.clientHeight))
+    ||
+    (rect.top >= 0 &&
+      rect.bottom <= (window.innerHeight || document.documentElement.clientHeight))
+  );
+}
+
+</script>
+
+<style>
+
+body {
+    text-align: center;
+}
+
+
+/*LINEAS DEL CUBO COMIENZO*/
+
+
+/*linea inferior izquierda*/
+.animate {
+    animation: viene 4s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector {
+    animation: viene 1s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_2 {
+    animation: viene 2s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_3 {
+    animation: viene 3s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_4 {
+    animation: viene 4s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_5 {
+    animation: viene 5s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_6 {
+    animation: viene 6s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_7 {
+    animation: viene 7s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_8 {
+    animation: viene 8s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_9 {
+    animation: viene 9s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_10 {
+    animation: viene 10s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_11 {
+    animation: viene 11s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_12 {
+    animation: viene 1s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_13 {
+    animation: viene 2s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_14 {
+    animation: viene 3s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_15 {
+    animation: viene 4s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_16 {
+    animation: viene 5s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_17 {
+    animation: viene 6s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_18 {
+    animation: viene 7s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_19 {
+    animation: viene 8s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_20 {
+    animation: viene 9s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_21 {
+    animation: viene 10s ;
+    animation-fill-mode: backwards;
+}
+
+
+/*linea inferior derecha*/
+
+ #Vector_22 {
+    animation: viene 2s ;
+    animation-fill-mode: backwards;
+}
+
+ #Vector_23 {
+    animation: viene 3s ;animation-fill-mode: backwards;
+}
+
+ #Vector_24 {
+    animation: viene 4s ;animation-fill-mode: backwards;
+}
+
+ #Vector_25 {
+    animation: viene 5s ;animation-fill-mode: backwards;
+}
+
+ #Vector_26 {
+    animation: viene 6s ;animation-fill-mode: backwards;
+}
+
+ #Vector_27 {
+    animation: viene 7s ;animation-fill-mode: backwards;
+}
+
+ #Vector_28 {
+    animation: viene 8s ;animation-fill-mode: backwards;
+}
+
+ #Vector_29 {
+    animation: viene 9s ;animation-fill-mode: backwards;
+}
+
+ #Vector_30 {
+    animation: viene 10s ;animation-fill-mode: backwards;
+}
+
+ #Vector_31 {
+    animation: viene 11s ;animation-fill-mode: backwards;
+}
+
+ #Vector_32 {
+    animation: viene 1s ;animation-fill-mode: backwards;
+}
+
+ #Vector_33 {
+    animation: viene 2s ;animation-fill-mode: backwards;
+}
+
+ #Vector_34 {
+    animation: viene 3s ;animation-fill-mode: backwards;
+}
+
+ #Vector_35 {
+    animation: viene 4s ;animation-fill-mode: backwards;
+}
+
+ #Vector_36 {
+    animation: viene 5s ;animation-fill-mode: backwards;
+}
+
+ #Vector_37 {
+    animation: viene 6s ;animation-fill-mode: backwards;
+}
+
+ #Vector_38 {
+    animation: viene 7s ;animation-fill-mode: backwards;
+}
+
+ #Vector_39 {
+    animation: viene 8s ;animation-fill-mode: backwards;
+}
+
+ #Vector_40 {
+    animation: viene 9s ;animation-fill-mode: backwards;
+}
+
+#x3C_Path_x3E {
+    animation: viene 8s ;animation-fill-mode: backwards;
+}
+
+#x3C_Path_x3E_1 {
+    animation: viene 7s ;animation-fill-mode: backwards;
+}
+
+#x3C_Path_x3E_2 {
+    animation: viene 6s ;animation-fill-mode: backwards;
+}
+
+#x3C_Path_x3E_3 {
+    animation: viene 5s ;animation-fill-mode: backwards;
+}
+
+#x3C_Path_x3E_4 {
+    animation: viene 4s ;animation-fill-mode: backwards;
+}
+
+#x3C_Path_x3E_5 {
+    animation: viene 3s ;animation-fill-mode: backwards;
+}
+
+
+/* Palo Medio */
+
+ #Vector_41 {
+    animation: viene 10s ;animation-fill-mode: backwards;
+}
+
+ #Vector_42 {
+    animation: viene 2s ;animation-fill-mode: backwards;
+}
+
+ #Vector_43 {
+    animation: viene 3s ;animation-fill-mode: backwards;
+}
+
+ #Vector_44 {
+    animation: viene 4s ;animation-fill-mode: backwards;
+}
+
+ #Vector_45 {
+    animation: viene 5s ;animation-fill-mode: backwards;
+}
+
+ #Vector_46 {
+    animation: viene 6s ;animation-fill-mode: backwards;
+}
+
+ #Vector_47 {
+    animation: viene 7s ;animation-fill-mode: backwards;
+}
+
+ #Vector_48 {
+    animation: viene 8s ;animation-fill-mode: backwards;
+}
+
+ #Vector_49 {
+    animation: viene 9s ;animation-fill-mode: backwards;
+}
+
+ #Vector_50 {
+    animation: viene 10s ;animation-fill-mode: backwards;
+}
+
+ #Vector_51 {
+    animation: viene 11s ;animation-fill-mode: backwards;
+}
+
+ #Vector_52 {
+    animation: viene 1s ;animation-fill-mode: backwards;
+}
+
+ #Vector_53 {
+    animation: viene 2s ;animation-fill-mode: backwards;
+}
+
+ #Vector_54 {
+    animation: viene 3s ;animation-fill-mode: backwards;
+}
+
+ #Vector_55 {
+    animation: viene 4s ;animation-fill-mode: backwards;
+}
+
+ #Vector_56 {
+    animation: viene 4s ;animation-fill-mode: backwards;
+    
+}
+
+ #Vector_57 {
+    animation: viene 6s ;animation-fill-mode: backwards;
+}
+
+ #Vector_58 {
+    animation: viene 7s ;animation-fill-mode: backwards;
+}
+
+ #Vector_59 {
+    animation: viene 8s ;animation-fill-mode: backwards;
+}
+
+#x3C_Path_x3E_6 {
+    animation: viene 3s ;animation-fill-mode: backwards;
+}
+
+
+/* Palo Derecho*/
+
+ #Vector_60 {
+    animation: viene 10s ;animation-fill-mode: backwards;
+}
+
+ #Vector_61 {
+    animation: viene 10s ;animation-fill-mode: backwards;
+}
+
+ #Vector_62 {
+    animation: viene 2s ;animation-fill-mode: backwards;
+}
+
+ #Vector_63 {
+    animation: viene 3s ;animation-fill-mode: backwards;
+}
+
+ #Vector_64 {
+    animation: viene 4s ;animation-fill-mode: backwards;
+}
+
+ #Vector_65 {
+    animation: viene 5s ;animation-fill-mode: backwards;
+}
+
+ #Vector_66 {
+    animation: viene 6s ;animation-fill-mode: backwards;
+}
+
+ #Vector_67 {
+    animation: viene 7s ;animation-fill-mode: backwards;
+}
+
+ #Vector_68 {
+    animation: viene 8s ;animation-fill-mode: backwards;
+}
+
+ #Vector_69 {
+    animation: viene 9s ;animation-fill-mode: backwards;
+}
+
+ #Vector_70 {
+    animation: viene 10s ;animation-fill-mode: backwards;
+}
+
+ #Vector_71 {
+    animation: viene 11s ;animation-fill-mode: backwards;
+}
+
+ #Vector_72 {
+    animation: viene 1s ;animation-fill-mode: backwards;
+}
+
+ #Vector_73 {
+    animation: viene 2s ;animation-fill-mode: backwards;
+}
+
+ #Vector_74 {
+    animation: viene 3s ;animation-fill-mode: backwards;
+}
+
+ #Vector_75 {
+    animation: viene 4s ;animation-fill-mode: backwards;
+}
+
+ #Vector_76 {
+    animation: viene 5s ;animation-fill-mode: backwards;
+}
+
+ #Vector_77 {
+    animation: viene 6s ;animation-fill-mode: backwards;
+}
+
+ #Vector_78 {
+    animation: viene 7s ;animation-fill-mode: backwards;
+}
+
+ #Vector_79 {
+    animation: viene 8s ;animation-fill-mode: backwards;
+}
+
+
+/*Palo Izquierdo*/
+
+ #Vector_80 {
+    animation: viene 10s ;animation-fill-mode: backwards;
+}
+
+ #Vector_81 {
+    animation: viene 10s ;animation-fill-mode: backwards;
+}
+
+ #Vector_82 {
+    animation: viene 2s ;animation-fill-mode: backwards;
+}
+
+ #Vector_83 {
+    animation: viene 3s ;animation-fill-mode: backwards;
+}
+
+ #Vector_84 {
+    animation: viene 4s ;animation-fill-mode: backwards;
+}
+
+ #Vector_85 {
+    animation: viene 5s ;animation-fill-mode: backwards;
+}
+
+ #Vector_86 {
+    animation: viene 6s ;animation-fill-mode: backwards;
+}
+
+ #Vector_87 {
+    animation: viene 7s ;animation-fill-mode: backwards;
+}
+
+ #Vector_88 {
+    animation: viene 8s ;animation-fill-mode: backwards;
+}
+
+ #Vector_89 {
+    animation: viene 9s ;animation-fill-mode: backwards;
+}
+
+ #Vector_90 {
+    animation: viene 10s ;animation-fill-mode: backwards;
+}
+
+ #Vector_91 {
+    animation: viene 11s ;animation-fill-mode: backwards;
+}
+
+ #Vector_92 {
+    animation: viene 1s ;animation-fill-mode: backwards;
+}
+
+ #Vector_93 {
+    animation: viene 2s ;animation-fill-mode: backwards;
+}
+
+ #Vector_94 {
+    animation: viene 3s ;animation-fill-mode: backwards;
+}
+
+ #Vector_95 {
+    animation: viene 4s ;animation-fill-mode: backwards;
+}
+
+ #Vector_96 {
+    animation: viene 5s ;animation-fill-mode: backwards;
+}
+
+
+/*linea Media Izquierda*/
+
+ #Vector_97 {
+    animation: viene 7s ;animation-fill-mode: backwards;
+}
+
+ #Vector_98 {
+    animation: viene 8s ;animation-fill-mode: backwards;
+}
+
+ #Vector_99 {
+    animation: viene 9s ;animation-fill-mode: backwards;
+}
+
+ #Vector_100 {
+    animation: viene 10s ;animation-fill-mode: backwards;
+}
+
+ #Vector_101 {
+    animation: viene 1s ;
+}
+
+ #Vector_102 {
+    animation: viene 2s ;
+}
+
+ #Vector_103 {
+    animation: viene 3s ;
+}
+
+ #Vector_104 {
+    animation: viene 4s ;
+}
+
+ #Vector_105 {
+    animation: viene 5s ;
+}
+
+ #Vector_106 {
+    animation: viene 6s ;
+}
+
+ #Vector_107 {
+    animation: viene 7s ;
+}
+
+ #Vector_108 {
+    animation: viene 8s ;
+}
+
+ #Vector_109 {
+    animation: viene 9s ;
+}
+
+ #Vector_110 {
+    animation: viene 10s ;
+}
+
+ #Vector_111 {
+    animation: viene 11s ;
+}
+
+ #Vector_112 {
+    animation: viene 1s ;
+}
+
+ #Vector_113 {
+    animation: viene 2s ;
+}
+
+ #Vector_114 {
+    animation: viene 3s ;
+}
+
+ #Vector_115 {
+    animation: viene 4s ;
+}
+
+ #Vector_116 {
+    animation: viene 5s ;
+}
+
+ #Vector_117 {
+    animation: viene 6s ;
+}
+
+ #Vector_118 {
+    animation: viene 7s ;
+}
+
+ #Vector_119 {
+    animation: viene 8s ;
+}
+
+
+/*Linea Media Derecha*/
+
+ #Vector_120 {
+    animation: viene 9s ;
+}
+
+ #Vector_121 {
+    animation: viene 10s ;
+}
+
+ #Vector_122 {
+    animation: viene 2s ;
+}
+
+ #Vector_123 {
+    animation: viene 3s ;
+}
+
+ #Vector_124 {
+    animation: viene 4s ;
+}
+
+ #Vector_125 {
+    animation: viene 5s ;
+}
+
+ #Vector_126 {
+    animation: viene 6s ;
+}
+
+ #Vector_127 {
+    animation: viene 7s ;
+}
+
+ #Vector_128 {
+    animation: viene 8s ;
+}
+
+ #Vector_129 {
+    animation: viene 9s ;
+}
+
+ #Vector_130 {
+    animation: viene 10s ;
+}
+
+ #Vector_131 {
+    animation: viene 11s ;
+}
+
+ #Vector_132 {
+    animation: viene 1s ;
+}
+
+ #Vector_133 {
+    animation: viene 2s ;
+}
+
+ #Vector_134 {
+    animation: viene 3s ;
+}
+
+ #Vector_135 {
+    animation: viene 4s ;
+}
+
+ #Vector_136 {
+    animation: viene 5s ;
+}
+
+
+/**/
+
+ #Vector_137 {
+    animation: viene 6s ;
+}
+
+ #Vector_138 {
+    animation: viene 7s ;
+}
+
+ #Vector_139 {
+    animation: viene 8s ;
+}
+
+ #Vector_140 {
+    animation: viene 9s ;
+}
+
+ #Vector_141 {
+    animation: viene 10s ;
+}
+
+ #Vector_142 {
+    animation: viene 2s ;
+}
+
+ #Vector_143 {
+    animation: viene 3s ;
+}
+
+ #Vector_144 {
+    animation: viene 4s ;
+}
+
+ #Vector_145 {
+    animation: viene 5s ;
+}
+
+ #Vector_146 {
+    animation: viene 6s ;
+}
+
+ #Vector_147 {
+    animation: viene 7s ;
+}
+
+ #Vector_148 {
+    animation: viene 8s ;
+}
+
+ #Vector_149 {
+    animation: viene 9s ;
+}
+
+ #Vector_150 {
+    animation: viene 10s ;
+}
+
+ #Vector_151 {
+    animation: viene 11s ;
+}
+
+ #Vector_152 {
+    animation: viene 1s ;
+}
+
+ #Vector_153 {
+    animation: viene 2s ;
+}
+
+ #Vector_154 {
+    animation: viene 3s ;
+}
+
+ #Vector_155 {
+    animation: viene 4s ;
+}
+
+
+/*Linea Superior Izquierda*/
+
+ #Vector_156 {
+    animation: viene 5s ;
+}
+
+ #Vector_157 {
+    animation: viene 6s ;
+}
+
+ #Vector_158 {
+    animation: viene 7s ;
+}
+
+ #Vector_159 {
+    animation: viene 8s ;
+}
+
+ #Vector_160 {
+    animation: viene 10s ;
+}
+
+ #Vector_161 {
+    animation: viene 10s ;
+}
+
+ #Vector_162 {
+    animation: viene 2s ;
+}
+
+ #Vector_163 {
+    animation: viene 3s ;
+}
+
+ #Vector_164 {
+    animation: viene 4s ;
+}
+
+ #Vector_165 {
+    animation: viene 5s ;
+}
+
+ #Vector_166 {
+    animation: viene 6s ;
+}
+
+ #Vector_167 {
+    animation: viene 7s ;
+}
+
+ #Vector_168 {
+    animation: viene 8s ;
+}
+
+ #Vector_169 {
+    animation: viene 9s ;
+}
+
+ #Vector_170 {
+    animation: viene 10s ;
+}
+
+#Vector_171  {
+    animation: viene 11s ;
+}
+
+
+@keyframes puntos {
+    from {
+        transform: rotateZ(0deg);
+    }
+    to {
+        transform: rotateZ(360deg);
+    }
+}
+
+@keyframes viene {
+    0% {
+        transform: pushY(10)
+    }
+    100% {
+        transform: translateY(100px)
+    }
+}
+
+@keyframes vieneBackwards {
+    0% {
+        transform: translateY(100px)
+    }
+    100% {
+        transform: pushY(10)
+    }
+}
+</style>
